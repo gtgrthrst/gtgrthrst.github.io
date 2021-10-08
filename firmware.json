@@ -1,7 +1,7 @@
 {
     "type": "ESP-AHB",
     "version": 2,
-    "host": "https://github.com/gtgrthrst/gtgrthrst.github.io",
+    "host": "github.com/gtgrthrst/gtgrthrst.github.io",
     "port": 443,
     "bin": "/blob/main/ESP32FOTA-HTTPS.ino.esp32.bin"
 }
